@@ -5,6 +5,6 @@ receitas = []
 puts "Digite o nome da receita: "
 nome = gets.chomp()
 
-receita << nome
+receitas << nome
 
 puts"Receita #{nome} cadastrada com sucesso!"
